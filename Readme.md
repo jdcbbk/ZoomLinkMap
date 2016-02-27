@@ -19,3 +19,38 @@ example:
 ```
 zoomLinkMap TimeUI-LinkMap-normal-armv7.txt
 ```
+out put:
+```
+总大小为: 4752238
+module libmtasdk.a 							 size is 273953 	 占比 5.764715
+module libTheAmazingAudioEngine.a 							 size is 302458 	 占比 6.364538
+module libHexColors.a 							 size is 2598 	 占比 0.054669
+module libFMDB.a 							 size is 68772 	 占比 1.447150
+module libPNChart.a 							 size is 44692 	 占比 0.940441
+module libSSKeychain.a 							 size is 13209 	 占比 0.277953
+module libWeiboSDK.a 							 size is 436024 	 占比 9.175130
+module libTTTAttributedLabel.a 							 size is 79725 	 占比 1.677631
+module libDZGeometryTools.a 							 size is 9399 	 占比 0.197780
+module libMBProgressHUD.a 							 size is 44737 	 占比 0.941388
+module libiRate.a 							 size is 44937 	 占比 0.945597
+module libNSDate-TKExtensions.a 							 size is 19252 	 占比 0.405114
+module libInAppSettingsKit.a 							 size is 130195 	 占比 2.739657
+module libMTLocation.a 							 size is 37350 	 占比 0.785945
+module libWeChatSDK.a 							 size is 199664 	 占比 4.201473
+module libTSMessages.a 							 size is 45169 	 占比 0.950478
+module libSKBounceAnimation.a 							 size is 16019 	 占比 0.337083
+module Project 							 size is 1840010 	 占比 38.718810
+module libDZCDNFiles.a 							 size is 9206 	 占比 0.193719
+module libKXKiOS7ColorsAndGradients.a 							 size is 5386 	 占比 0.113336
+module libPulsingHalo.a 							 size is 5209 	 占比 0.109612
+module libDZCache.a 							 size is 9056 	 占比 0.190563
+module libPods-TimeUI.a 							 size is 146 	 占比 0.003072
+module libJBChartView.a 							 size is 53876 	 占比 1.133697
+module libTTCounterLabel.a 							 size is 11285 	 占比 0.237467
+module libDZSinglonFactory.a 							 size is 2579 	 占比 0.054269
+module libCocoaLumberjack.a 							 size is 160418 	 占比 3.375631
+module TencentOpenAPI 							 size is 355012 	 占比 7.470417
+module libObjectiveSugar.a 							 size is 18143 	 占比 0.381778
+module libarclite_iphoneos.a 							 size is 8997 	 占比 0.189321
+module Bugly 							 size is 504762 	 占比 10.621564
+```
