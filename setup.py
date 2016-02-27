@@ -2,11 +2,11 @@ from setuptools import setup, find_packages
 
 setup(
     name = "ZoomLinkMap",
-    version = "0.1.0",
+    version = "0.1.1",
     keywords = ('Link Map File', 'analisy'),
     description = 'a tool to analisy the link map file that is genered by clang, to analisy your app\'s content',
     license = 'MIT License',
-    url = 'http://example.com',
+    url = 'https://github.com/yishuiliunian/ZoomLinkMap',
 
     author = 'yishuiliunian@gmail.com',
     author_email = 'yishuiliunian@gmail.com',
